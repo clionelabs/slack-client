@@ -1,10 +1,10 @@
 Package.describe({
   name: 'hiukim:slack-client',
-  version: '1.0.0',
+  version: '1.0.1',
   // Brief, one-line summary of the package.
   summary: 'Slack Real Time Messaging API',
   // URL to the Git repository containing the source code for this package.
-  git: '',
+  git: 'https://github.com/clionelabs/slack-client.git',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
   documentation: 'README.md'

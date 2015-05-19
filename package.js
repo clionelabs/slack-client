@@ -12,7 +12,7 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.1.0.2');
-  api.addFiles('slack-client.js');
+  api.addFiles('slack-client.js', 'server');
   api.export('Slack', 'server');
 });
 
